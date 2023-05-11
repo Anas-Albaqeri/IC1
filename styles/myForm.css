@@ -1,0 +1,84 @@
+.textfield{
+    border-radius: 3px;
+    height: 25px;
+    font-size: 15px;
+    border: 1px solid rgb(25, 18, 38);
+    padding: 5px; 
+    margin: 1px 0px 8px 0px;
+}
+
+label{
+    background: none;
+    font-family: monospace;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 13px;
+    font-weight: bold;
+}
+
+.mbutton{
+    padding: 8px;
+    background: rgb(47, 47, 188);
+    color: white;
+    border: 1px solid;
+    cursor: pointer;
+    border-radius: 5px;
+
+  }
+  .mbutton:hover{
+    background: transparent;
+    color: rgb(47, 47, 188);
+  }
+
+  .cancel{
+    padding: 8px;
+    background: red;
+    color: white;
+    border: 1px solid;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+.cancel:hover{
+    background: transparent;
+    color: red;
+  }
+
+  .back{
+    padding-left: 15px;
+    padding-right:15px;
+    background: rgb(47, 47, 188);
+    color: white;
+    border: 1px solid;
+    cursor: pointer;
+    border-radius: 5px;
+    float:right;
+
+  }
+
+  .signup-link{
+    padding: 5px;
+    background: #130909;
+    color: white;
+    border: 1px solid;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+
+  .signup-link:hover{
+    background: transparent;
+    color: black;
+  }
+  
+
+  .logout{
+    border: none;
+  }
+  
+  .logout:hover{
+    border: 1px solid white;
+  }
+  
+
+
